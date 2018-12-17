@@ -1,0 +1,1 @@
+fromelf --bin --output case.bin case.axf
